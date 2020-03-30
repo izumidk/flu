@@ -1,0 +1,38 @@
+ARM_ACCESSION	SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_UNIT	MAX_SUBJECT_AGE	MIN_SUBJECT_AGE	SUBJECT_PHENOTYPE
+ARM2862	SUB156937	Age at enrollment		Years	24	24	Young
+ARM2862	SUB156940	Age at enrollment		Years	23	23	Young
+ARM2862	SUB156941	Age at enrollment		Years	24	24	Young
+ARM2862	SUB156943	Age at enrollment		Years	23	23	Young
+ARM2862	SUB156945	Age at enrollment		Years	25	25	Young
+ARM2863	SUB156925	Age at enrollment		Years	87	87	Old, Pre-frail
+ARM2863	SUB156950	Age at enrollment		Years	90	90	Old, Frail
+ARM2862	SUB156934	Age at enrollment		Years	26	26	Young
+ARM2862	SUB156939	Age at enrollment		Years	29	29	Young
+ARM2863	SUB156923	Age at enrollment		Years	65	65	Old, Non-frail
+ARM2862	SUB156932	Age at enrollment		Years	26	26	Young
+ARM2862	SUB156938	Age at enrollment		Years	26	26	Young
+ARM2863	SUB156916	Age at enrollment		Years	69	69	Old, Non-frail
+ARM2863	SUB156918	Age at enrollment		Years	66	66	Old, Non-frail
+ARM2863	SUB156944	Age at enrollment		Years	79	79	Old, Non-frail
+ARM2863	SUB156947	Age at enrollment		Years	70	70	Old, Frail
+ARM2862	SUB156915	Age at enrollment		Years	22	22	Young
+ARM2862	SUB156928	Age at enrollment		Years	25	25	Young
+ARM2862	SUB156930	Age at enrollment		Years	27	27	Young
+ARM2862	SUB156926	Age at enrollment		Years	26	26	Young
+ARM2862	SUB156936	Age at enrollment		Years	29	29	Young
+ARM2863	SUB156920	Age at enrollment		Years	66	66	Old, Frail
+ARM2863	SUB156949	Age at enrollment		Years	90	90	Old, Frail
+ARM2862	SUB156917	Age at enrollment		Years	23	23	Young
+ARM2862	SUB156935	Age at enrollment		Years	25	25	Young
+ARM2863	SUB156921	Age at enrollment		Years	67	67	Old, Non-frail
+ARM2863	SUB156924	Age at enrollment		Years	67	67	Old, Pre-frail
+ARM2863	SUB156942	Age at enrollment		Years	68	68	Old, Pre-frail
+ARM2862	SUB156929	Age at enrollment		Years	22	22	Young
+ARM2862	SUB156931	Age at enrollment		Years	24	24	Young
+ARM2862	SUB156933	Age at enrollment		Years	25	25	Young
+ARM2862	SUB156946	Age at enrollment		Years	28	28	Young
+ARM2863	SUB156919	Age at enrollment		Years	90	90	Old, Pre-frail
+ARM2863	SUB156922	Age at enrollment		Years	75	75	Old, Non-frail
+ARM2863	SUB156948	Age at enrollment		Years	90	90	Old, Frail
+ARM2862	SUB156927	Age at enrollment		Years	25	25	Young
+ARM2863	SUB156914	Age at enrollment		Years	69	69	Old, Non-frail

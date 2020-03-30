@@ -1,0 +1,38 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB156915	North America		Not Hispanic or Latino	Male	Asian		Homo sapiens			2668
+SUB156926	North America		Not Hispanic or Latino	Male	Asian		Homo sapiens			2668
+SUB156935	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156937	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156943	North America		Not Hispanic or Latino	Male	Asian		Homo sapiens			2668
+SUB156918	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156924	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156942	North America		Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156947	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156928	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156941	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156931	North America		Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB156919	North America	;age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156925	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156948	North America	;age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156933	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156934	North America		Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB156922	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156930	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156938	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156939	North America		Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156921	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156923	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156940	North America		Hispanic or Latino	Male	Unknown		Homo sapiens			2668
+SUB156946	North America		Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156944	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156950	North America	;age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156927	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156929	North America		Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB156932	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156914	North America		Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB156949	North America	;age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156917	North America		Not Hispanic or Latino	Male	Asian		Homo sapiens			2668
+SUB156936	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB156945	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156916	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB156920	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2668

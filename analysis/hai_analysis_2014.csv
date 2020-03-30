@@ -1,0 +1,141 @@
+SUBJECT_ACCESSION,PREVAX,VIRUS_STRAIN,POSTVAX,FOLD_CHANGE,FOLD_CHANGE_LOG2,ANCESTRAL_POPULATION,ETHNICITY,GENDER,RACE,MAX_SUBJECT_AGE,SUBJECT_PHENOTYPE
+SUB156941,64,H3,64,1.0,0.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156941,512,B1,512,1.0,0.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156941,32,B2,32,1.0,0.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156941,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156920,32,B2,64,2.0,1.0,North America,Not Hispanic or Latino,Female,White,66,"Old, Frail"
+SUB156920,64,B1,256,4.0,2.0,North America,Not Hispanic or Latino,Female,White,66,"Old, Frail"
+SUB156920,16,H3,32,2.0,1.0,North America,Not Hispanic or Latino,Female,White,66,"Old, Frail"
+SUB156920,128,H1,256,2.0,1.0,North America,Not Hispanic or Latino,Female,White,66,"Old, Frail"
+SUB156950,64,H1,256,4.0,2.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156950,32,B1,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156950,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156950,32,H3,128,4.0,2.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156925,16,H3,32,2.0,1.0,North America,Not Hispanic or Latino,Male,White,87,"Old, Pre-frail"
+SUB156925,128,B2,128,1.0,0.0,North America,Not Hispanic or Latino,Male,White,87,"Old, Pre-frail"
+SUB156925,32,B1,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,87,"Old, Pre-frail"
+SUB156925,64,H1,64,1.0,0.0,North America,Not Hispanic or Latino,Male,White,87,"Old, Pre-frail"
+SUB156918,16,H3,64,4.0,2.0,North America,Not Hispanic or Latino,Male,White,66,"Old, Non-frail"
+SUB156918,32,B1,32,1.0,0.0,North America,Not Hispanic or Latino,Male,White,66,"Old, Non-frail"
+SUB156918,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Male,White,66,"Old, Non-frail"
+SUB156918,32,H1,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,66,"Old, Non-frail"
+SUB156917,64,B2,128,2.0,1.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156917,256,H1,512,2.0,1.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156917,128,H3,256,2.0,1.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156917,512,B1,1024,2.0,1.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156947,128,H1,256,2.0,1.0,North America,Not Hispanic or Latino,Female,White,70,"Old, Frail"
+SUB156947,64,B1,256,4.0,2.0,North America,Not Hispanic or Latino,Female,White,70,"Old, Frail"
+SUB156947,32,B2,32,1.0,0.0,North America,Not Hispanic or Latino,Female,White,70,"Old, Frail"
+SUB156947,128,H3,128,1.0,0.0,North America,Not Hispanic or Latino,Female,White,70,"Old, Frail"
+SUB156943,256,B1,256,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156943,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156943,128,H3,128,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156943,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,23,Young
+SUB156937,256,B1,512,2.0,1.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156937,128,B2,256,2.0,1.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156937,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156937,128,H3,512,4.0,2.0,North America,Not Hispanic or Latino,Female,White,24,Young
+SUB156933,4,B2,128,32.0,5.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156933,4,H3,256,64.0,6.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156933,64,B1,512,8.0,3.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156933,32,H1,512,16.0,4.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156944,32,H1,32,1.0,0.0,North America,Not Hispanic or Latino,Male,White,79,"Old, Non-frail"
+SUB156944,16,H3,32,2.0,1.0,North America,Not Hispanic or Latino,Male,White,79,"Old, Non-frail"
+SUB156944,64,B1,64,1.0,0.0,North America,Not Hispanic or Latino,Male,White,79,"Old, Non-frail"
+SUB156944,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Male,White,79,"Old, Non-frail"
+SUB156926,256,B1,512,2.0,1.0,North America,Not Hispanic or Latino,Male,Asian,26,Young
+SUB156926,256,H3,256,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,26,Young
+SUB156926,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,26,Young
+SUB156926,512,H1,512,1.0,0.0,North America,Not Hispanic or Latino,Male,Asian,26,Young
+SUB156940,8,B2,256,32.0,5.0,North America,Hispanic or Latino,Male,Unknown,23,Young
+SUB156940,4,H1,256,64.0,6.0,North America,Hispanic or Latino,Male,Unknown,23,Young
+SUB156940,128,B1,512,4.0,2.0,North America,Hispanic or Latino,Male,Unknown,23,Young
+SUB156940,4,H3,128,32.0,5.0,North America,Hispanic or Latino,Male,Unknown,23,Young
+SUB156923,512,H1,512,1.0,0.0,North America,Not Hispanic or Latino,Male,White,65,"Old, Non-frail"
+SUB156923,16,B1,16,1.0,0.0,North America,Not Hispanic or Latino,Male,White,65,"Old, Non-frail"
+SUB156923,128,B2,128,1.0,0.0,North America,Not Hispanic or Latino,Male,White,65,"Old, Non-frail"
+SUB156923,16,H3,16,1.0,0.0,North America,Not Hispanic or Latino,Male,White,65,"Old, Non-frail"
+SUB156948,64,H1,128,2.0,1.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156948,32,H3,128,4.0,2.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156948,16,B2,32,2.0,1.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156948,64,B1,128,2.0,1.0,North America,Not Hispanic or Latino,Male,White,90,"Old, Frail"
+SUB156935,64,H3,128,2.0,1.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156935,64,B1,256,4.0,2.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156935,8,B2,32,4.0,2.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156935,32,H1,256,8.0,3.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156936,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Male,White,29,Young
+SUB156936,32,H3,32,1.0,0.0,North America,Not Hispanic or Latino,Male,White,29,Young
+SUB156936,512,B1,512,1.0,0.0,North America,Not Hispanic or Latino,Male,White,29,Young
+SUB156936,128,B2,128,1.0,0.0,North America,Not Hispanic or Latino,Male,White,29,Young
+SUB156932,32,H3,64,2.0,1.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156932,512,B1,512,1.0,0.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156932,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156932,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156929,128,H3,256,2.0,1.0,North America,Not Hispanic or Latino,Female,Asian,22,Young
+SUB156929,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Female,Asian,22,Young
+SUB156929,128,B1,256,2.0,1.0,North America,Not Hispanic or Latino,Female,Asian,22,Young
+SUB156929,1024,H1,1024,1.0,0.0,North America,Not Hispanic or Latino,Female,Asian,22,Young
+SUB156945,128,B1,512,4.0,2.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156945,8,H1,256,32.0,5.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156945,4,H3,32,8.0,3.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156945,8,B2,32,4.0,2.0,North America,Not Hispanic or Latino,Female,White,25,Young
+SUB156938,64,H3,128,2.0,1.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156938,32,H1,128,4.0,2.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156938,128,B2,128,1.0,0.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156938,512,B1,1024,2.0,1.0,North America,Not Hispanic or Latino,Female,White,26,Young
+SUB156946,128,B2,128,1.0,0.0,North America,Hispanic or Latino,Male,White,28,Young
+SUB156946,16,H3,32,2.0,1.0,North America,Hispanic or Latino,Male,White,28,Young
+SUB156946,4,H1,16,4.0,2.0,North America,Hispanic or Latino,Male,White,28,Young
+SUB156946,512,B1,512,1.0,0.0,North America,Hispanic or Latino,Male,White,28,Young
+SUB156927,64,B1,128,2.0,1.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156927,64,H3,128,2.0,1.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156927,32,B2,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156927,256,H1,512,2.0,1.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156924,16,H3,64,4.0,2.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Pre-frail"
+SUB156924,4,H1,8,2.0,1.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Pre-frail"
+SUB156924,32,B2,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Pre-frail"
+SUB156924,64,B1,128,2.0,1.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Pre-frail"
+SUB156928,64,B2,64,1.0,0.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156928,256,H1,256,1.0,0.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156928,128,H3,128,1.0,0.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156928,64,B1,128,2.0,1.0,North America,Not Hispanic or Latino,Male,White,25,Young
+SUB156931,128,B1,512,4.0,2.0,North America,Not Hispanic or Latino,Female,Asian,24,Young
+SUB156931,32,H3,512,16.0,4.0,North America,Not Hispanic or Latino,Female,Asian,24,Young
+SUB156931,128,B2,256,2.0,1.0,North America,Not Hispanic or Latino,Female,Asian,24,Young
+SUB156931,128,H1,512,4.0,2.0,North America,Not Hispanic or Latino,Female,Asian,24,Young
+SUB156949,16,H3,256,16.0,4.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Frail"
+SUB156949,32,B1,256,8.0,3.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Frail"
+SUB156949,32,B2,128,4.0,2.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Frail"
+SUB156949,128,H1,512,4.0,2.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Frail"
+SUB156914,32,H3,64,2.0,1.0,North America,Not Hispanic or Latino,Female,Asian,69,"Old, Non-frail"
+SUB156914,8,B2,32,4.0,2.0,North America,Not Hispanic or Latino,Female,Asian,69,"Old, Non-frail"
+SUB156914,4,B1,32,8.0,3.0,North America,Not Hispanic or Latino,Female,Asian,69,"Old, Non-frail"
+SUB156914,16,H1,64,4.0,2.0,North America,Not Hispanic or Latino,Female,Asian,69,"Old, Non-frail"
+SUB156934,64,H3,128,2.0,1.0,North America,Not Hispanic or Latino,Female,Asian,26,Young
+SUB156934,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Female,Asian,26,Young
+SUB156934,256,B1,512,2.0,1.0,North America,Not Hispanic or Latino,Female,Asian,26,Young
+SUB156934,4,B2,64,16.0,4.0,North America,Not Hispanic or Latino,Female,Asian,26,Young
+SUB156922,32,B2,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,75,"Old, Non-frail"
+SUB156922,4,H1,8,2.0,1.0,North America,Not Hispanic or Latino,Male,White,75,"Old, Non-frail"
+SUB156922,16,B1,64,4.0,2.0,North America,Not Hispanic or Latino,Male,White,75,"Old, Non-frail"
+SUB156922,32,H3,32,1.0,0.0,North America,Not Hispanic or Latino,Male,White,75,"Old, Non-frail"
+SUB156939,8,H3,512,64.0,6.0,North America,Hispanic or Latino,Male,White,29,Young
+SUB156939,8,B2,256,32.0,5.0,North America,Hispanic or Latino,Male,White,29,Young
+SUB156939,32,H1,512,16.0,4.0,North America,Hispanic or Latino,Male,White,29,Young
+SUB156939,128,B1,2048,16.0,4.0,North America,Hispanic or Latino,Male,White,29,Young
+SUB156919,16,H1,64,4.0,2.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Pre-frail"
+SUB156919,32,B1,128,4.0,2.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Pre-frail"
+SUB156919,16,B2,128,8.0,3.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Pre-frail"
+SUB156919,4,H3,64,16.0,4.0,North America,Not Hispanic or Latino,Female,White,90,"Old, Pre-frail"
+SUB156916,16,H3,32,2.0,1.0,North America,Not Hispanic or Latino,Female,White,69,"Old, Non-frail"
+SUB156916,8,B1,16,2.0,1.0,North America,Not Hispanic or Latino,Female,White,69,"Old, Non-frail"
+SUB156916,8,H1,32,4.0,2.0,North America,Not Hispanic or Latino,Female,White,69,"Old, Non-frail"
+SUB156916,32,B2,32,1.0,0.0,North America,Not Hispanic or Latino,Female,White,69,"Old, Non-frail"
+SUB156921,32,B2,64,2.0,1.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Non-frail"
+SUB156921,8,H3,128,16.0,4.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Non-frail"
+SUB156921,128,H1,128,1.0,0.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Non-frail"
+SUB156921,128,B1,256,2.0,1.0,North America,Not Hispanic or Latino,Male,White,67,"Old, Non-frail"
+SUB156942,8,B1,8,1.0,0.0,North America,Hispanic or Latino,Female,White,68,"Old, Pre-frail"
+SUB156942,8,B2,8,1.0,0.0,North America,Hispanic or Latino,Female,White,68,"Old, Pre-frail"
+SUB156942,16,H3,32,2.0,1.0,North America,Hispanic or Latino,Female,White,68,"Old, Pre-frail"
+SUB156942,32,H1,32,1.0,0.0,North America,Hispanic or Latino,Female,White,68,"Old, Pre-frail"
